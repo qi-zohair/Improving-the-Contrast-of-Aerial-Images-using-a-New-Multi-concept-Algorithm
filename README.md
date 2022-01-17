@@ -1,4 +1,4 @@
-# Improving-the-Contrast-of-Aerial-Images-using-a-New-Multi-concept-Algorithm
+# Improving-the-Contrast-of-Aerial-Images-using-a-New-Multi-Concept-Algorithm
 
 Please report bugs and/or send comments to Zohair Al-Ameen.
 Email: qizohair@uomosul.edu.iq
